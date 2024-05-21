@@ -6,7 +6,7 @@ import com.ruoyi.common.core.domain.entity.SysDictData;
 
 /**
  * 字典表 数据层
- * 
+ *  zhh
  * @author ruoyi
  */
 public interface SysDictDataMapper
